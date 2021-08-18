@@ -6,7 +6,6 @@ margin-bottom: 5px;
 h1 {text-align: center;}
 
 
-
 .sidebar a {
   padding: 20px;
   text-decoration: none;
@@ -88,7 +87,7 @@ h1 {text-align: center;}
   display: none;
 }
 
-@media(max-width:900px){
+@media(max-device-width:500px){
   .foo{
     display: none;
   }
