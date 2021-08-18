@@ -44,6 +44,7 @@ function(e){
   x.style.height="100px";
   y.style.display="block";
   close.style.display="block";
+  
 
   
 });
