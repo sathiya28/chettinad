@@ -6,6 +6,7 @@ body{
   background: url(bg.jpg) no-repeat;
 
   background-size: cover;
+  background-attachment: fixed;
 }
 .login-box{
   width: 280px;
